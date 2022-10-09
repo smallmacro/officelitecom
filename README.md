@@ -1,6 +1,4 @@
-# Frontend Project Challenges
-
-## Officelite coming soon site
+# Frontend Project Challenge - Officelite coming soon site
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
