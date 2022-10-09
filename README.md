@@ -1,5 +1,6 @@
 # Frontend Project Challenge - Officelite coming soon site
 
+Project challenges:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 - See error states when the contact form is submitted if:
@@ -8,17 +9,8 @@
 - Bonus: See a live countdown timer that ticks down every second
 - Bonus: See a custom-styled select form control in the sign-up form
 
-## Other Project Links
 
-- [Challenge1: Order summary component](https://smallmacro.github.io/challenge1/)
-
-- [Challenge2: Four Card Feature Section](https://smallmacro.github.io/challenge2/)
-
-- [Challenge3: Time tracking dashboard challenge](https://smallmacro.github.io/challenge3/)
-
-- [Challenge4: GitHub user search app challenge](https://smallmacro.github.io/challenge4/)
-
-- [Challenge5: Officelite coming soon site](https://smallmacro.github.io/officelitecom/)
+Final URL: Officelite coming soon site](https://smallmacro.github.io/officelitecom/)
 
 ## Built with
 
@@ -95,9 +87,22 @@ Question:
 - custom-styled select form control in the sign-up form
 - live countdown timer
 
+
+
 ## One more thing
 
 How is the efficient workflow when `tailwindcss` working with figma design draft
+
+
+## Other Project Links
+
+- [Challenge1: Order summary component](https://smallmacro.github.io/challenge1/)
+
+- [Challenge2: Four Card Feature Section](https://smallmacro.github.io/challenge2/)
+
+- [Challenge3: Time tracking dashboard challenge](https://smallmacro.github.io/challenge3/)
+
+- [Challenge4: GitHub user search app challenge](https://smallmacro.github.io/challenge4/)
 
 ## Author
 
