@@ -82,10 +82,27 @@ Question:
 
   - Deploy to Github Pages with white loading index page - unsolve problem
 
+
+- Counting down timer
+  - `useEffect()` to set a timer  and clear a timer at the end of funciton
+  
+  ```javascript
+  useEffect(() => {
+    let timer = setTimeout(() => {
+      setTimeLeft(calculateTimeLeft())
+    }, 1000)
+  
+    return () => {
+      clearTimeout(timer)
+    }
+  })
+  ```
+  - when counting down the time, the number having differnt digits cause to various width. - Done. just set the interval string with a fixed width.
+
 ## TO DO NEXT
 
 - custom-styled select form control in the sign-up form
-- live countdown timer
+
 
 
 
